@@ -15,3 +15,5 @@ __pycache__/
 # Temporary files or benchmark resources
 animations/*
 tmp/*
+
+py311/*

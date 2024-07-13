@@ -148,6 +148,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
 ##########################################################
 
 demo.launch(
+    inbrowser=True,
     server_name=args.server_name,
     server_port=args.server_port,
     share=args.share,

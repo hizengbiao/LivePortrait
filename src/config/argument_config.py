@@ -30,6 +30,7 @@ class ArgumentConfig(PrintableConfig):
     flag_do_crop: bool = True  # whether to crop the source portrait to the face-cropping space
     flag_do_rot: bool = True  # whether to conduct the rotation when flag_do_crop is True
     #########################################
+    flag_add_sound: bool = True
 
     ########## crop arguments ##########
     dsize: int = 512
