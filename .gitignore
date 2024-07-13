@@ -15,6 +15,9 @@ pretrained_weights/docs
 # Ipython notebook
 *.ipynb
 
+#env
+py311/*
+
 # Temporary files or benchmark resources
 animations/*
 tmp/*
