@@ -17,6 +17,7 @@ pretrained_weights/docs
 
 #env
 py311/*
+venv/*
 
 # Temporary files or benchmark resources
 animations/*
