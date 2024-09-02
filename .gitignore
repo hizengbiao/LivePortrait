@@ -19,6 +19,7 @@ pretrained_weights/liveportrait_animals
 
 #env
 py311/*
+venv/*
 
 # Temporary files or benchmark resources
 animations/*
